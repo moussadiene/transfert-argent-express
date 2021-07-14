@@ -1,0 +1,20 @@
+{
+    "name": "transfert-argent-express",
+    "version": "1.0.0",
+    "description": "\"brief simplon AUF P3\"",
+    "main": "server.js",
+    "author": "_djiné",
+    "license": "MIT",
+    "scripts": {
+        "serve": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dayjs": "^1.10.6",
+        "express": "^4.17.1",
+        "mongoose": "^5.13.2",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.12"
+    }
+}
