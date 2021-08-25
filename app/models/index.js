@@ -1,3 +1,4 @@
+'use strict'
 const conn = require('../configs/singleton.config');
 class DB {
     static Emeteur;

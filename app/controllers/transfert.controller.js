@@ -78,9 +78,9 @@ class TransfertController {
 
     async AllTransferts(req, res) {
         if (db.Transfert) {
-            const AllTransferts = await db.Transfert.find();
+            const AllTransferts = await db.Transfert.find().populate('emeteur').populate('recepteur');
             if (AllTransferts) {
-                res.status(200).json({ AllTransferts })
+                res.status(200).json(AllTransferts)
             } else {
                 res.status(400).json({
                     message: "liste vide "
