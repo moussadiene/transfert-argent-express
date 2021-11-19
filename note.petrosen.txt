@@ -1,0 +1,11 @@
+Faire une liste pour les retoures (no incomprehensible)
+
+1. Est ce qu'on a un compte dev cote client.
+
+2. Design : 
+
+3. S'organiser pour l'authentification (petrosen - assurafApi)
+
+4. Mockup et screenshot d'assuraf mobile (assuraf)
+
+6. Petrosen (fournir le parcours auto mobile)

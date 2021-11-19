@@ -1,0 +1,353 @@
+{
+    "MediaclQuestion":[
+      {
+        "numero":1,
+        "question":"Avez-vous présenté une diminution de poids involontaire au cours des 2 dernières années ?",
+        "answers":[
+          {"type": "radio", "text":"Do all tigers roar?", "options":[{"text": "yes", "value": "first"},{"text": "no", "value": "2"}]},
+          {"type": "radio", "text":"Do all bulldgos play?", "options":[{"text": "yes", "value": "first"},{"text": "no", "value": "2"}]}
+        ],
+        "justification":{
+            "justification_question":"Précisez son importance",
+            "justification_response":""
+          }
+      },
+
+      {
+        "numero":1,
+        "question":"Indiquer votre taille et votre poids ?",
+        "resp_taille" : "",
+        "resp_poid" : ""
+      },
+      {
+        "numero":2,
+        "question":"Avez-vous présenté une diminution de poids involontaire au cours des 2 dernières années ?",
+        "principal_response":"oui",
+        "resp_justification":"uuuu"
+      },
+      {
+        "numero":3,
+        "question":"Y a-t-il dans votre famille un antécédent de maladie cardiaque, vasculaire, neurologique,psychiatrique, de cancer ou de diabète ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Précisez",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":4,
+        "question":"Consommez-vous des boissons alcoolisées quotidiennement (bière, vin, apéritif) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Quantités journalières",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":5,
+        "question":"Etes-vous fumeur ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Quantités journalières:",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":6,
+        "question":"Avez-vous été victime d’accident (d’automobile ou autre ) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Localisations (indiquer s’il y a eu perte de connaissance et la durée), dates, séquelles :",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":7,
+        "question":"Etes-vous actuellement en arrêt de travail ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Depuis quand - motif - date de reprise prévisible",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":8,
+        "question":"Durant les 5 dernières années avez-vous dû interrompre votre travail pendant plus de 3 semaines consécutives ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Quand - durée de chaque arrêt - motif ",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":9,
+        "question":"Etes-vous titulaire d’une pension d’invalidité ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Depuis quand - motif – taux d’invalidité (préciser à titre civil ou militaire) :",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":10,
+        "question":"Une procédure de mise en invalidité est-elle ou va-t-elle être engagée ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Depuis quand - motif – taux d’invalidité (préciser à titre civil ou militaire) :",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":11,
+        "question":"Utilisez-vous habituellement des médicamentsvcontre les maux de tête, les douleurs, la fatigue, des somnifères, des antibiotiques, des tranquillisants ou du magnésium ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Lesquels - Depuis quand et pourquoi ?",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":12,
+        "question":"Avez-vous suivi ou suivez-vous actuellement un traitement, pour une durée supérieure à 3 semaines ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Lesquels - Depuis quand et pourquoi ?",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":13,
+        "question":"Avez-vous fait des séjours en milieu hospitalier ou assimilé pour intervention examen, traitement ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Dates – durées - motifs, résultats",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":14,
+        "question":"Avez-vous suivi un traitement spécialisé tel que rayons, chimiothérapie, immunothérapie, ou cobaltothérapie ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Dates – durées - motifs, résultats",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":15,
+        "question":"Avez-vous subi des examens médicaux (en dehors de la médecine du travail) tels qu’une analyse de sang, d’urine, un électrocardiogramme, une radiographie ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Dates – durées - motifs, résultats",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":16,
+        "question":"Avez-vous ou non subi un test de dépistage des sérologies, en particulier pour les virus des hépatites B et C ou pour celui de l’immunodéficience humaine (VIH), dont le résultat a été positif ? A quelle date ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Dates – durées - motifs, résultats",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":17,
+        "question":"Devez-vous être hospitalisé prochainement ou subir des examens médicaux ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Quand - pour quel(s) motif(s)",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":18,
+        "question":"Devez-vous subir une intervention chirurgicale ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Quand - pour quel(s) motif(s)",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":19,
+        "question":"Maladies de l’appareil respiratoire (toux de longue durée, crachement de sang, essoufflements, asthme,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":20,
+        "question":"Maladies de l’appareil cardio-vasculaire (infarctus, hypertension artérielle, artérite,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":21,
+        "question":"Maladies de l’appareil digestif (ulcère, jaunisse, hépatite, diarrhée chronique,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":22,
+        "question":"Maladies de l’appareil urinaire et génital (albuminurie et sang dans les urines, maladies sexuellement transmissibles,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":23,
+        "question":"Maladies du système nerveux (paralysies, méningite, épilepsie,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":24,
+        "question":"Maladies neuropsychiques (dépression nerveuse, tentative de suicide,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":25,
+        "question":"Maladies du sang, des ganglions et de la rate (anémie, présence de ganglions anormaux, hémophilie,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":26,
+        "question":"Maladies endocriniennes ou métaboliques (diabète, affection de la thyroïde, hémochromatose, goutte,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":27,
+        "question":"Maladies des os et articulations (arthrose, rhumatismes divers,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":28,
+        "question":"Maladies de la peau (exérèse de grains de beauté, psoriasis, autres lésions,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":29,
+        "question":"Maladies infectieuses sévères ou compliquées (tuberculose, hépatite virale, infections à répétition,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":30,
+        "question":"Maladies parasitaires ou mycoses (paludisme, bilharziose, candidose,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":31,
+        "question":"Maladies des organes des sens troubles oculaires et auditifs (myopie, surdité,...) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":32,
+        "question":"Autres maladies non citées ci-dessus ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Veuillez préciser",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":33,
+        "question":"Etes-vous actuellement titulaire d’assurances de personnes ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Effet - Compagnie – Montant par garantie - Motif(s) - bénéficiaire",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":34,
+        "question":"Avez-vous fait l’objet d’un refus, d’un ajournement, d’une restriction ou d’une surprime pour un précédent contrat d’assurances de personnes ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Effet - Compagnie – Montant par garantie - Motif(s) - bénéficiaire",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":35,
+        "question":"Effectuez-vous des séjours hors de l’Union européenne, des Etats-Unis, du Canada ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Précisez : fréquence, durée moyenne et but des séjours, par an et par pays concerné)",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":36,
+        "question":"Utilisez-vous en tant que pilote ou passager des engins aériens (hors lignes commerciales régulières) ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":37,
+        "question":"Utilisez-vous un cycle à moteur ? Si oui, est-ce en tant que moyen de transport uniquement ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Précisez :",
+          "justification_response":""
+        }
+      },
+      {
+        "numero":38,
+        "question":"Pratiquez-vous des sports ?",
+        "principal_response":"",
+        "justification":{
+          "justification_question":"Si oui, lesquels :",
+          "justification_response":""
+        }
+      }
+    ]
+}

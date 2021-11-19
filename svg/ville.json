@@ -1,0 +1,133 @@
+{
+    "Dakar":[
+                {
+                    "quartier": "Biscuiterie"
+                },
+                {
+                    "quartier": "Dieuppeul"
+                },
+                {
+                    "quartier": "Derklé"
+                },
+                {
+                    "quartier": "Grand Dakar"
+                },
+                {
+                    "quartier": "Mermoz"
+                },
+                {
+                    "quartier": "Sacre Cœur"
+                },
+                {
+                    "quartier": "HLM"
+                },
+                {
+                    "quartier": "Sicap Liberté"
+                },
+                {
+                    "quartier": "Dakar Plateau"
+                },
+                {
+                    "quartier": "Gueule Tapée"
+                },
+                {
+                    "quartier": "Fass"
+                },
+                {
+                    "quartier": "Colobane"
+                },
+                {
+                    "quartier": "Fann"
+                },
+                {
+                    "quartier": "Point E"
+                },
+                {
+                    "quartier": "Amitié"
+                },
+                {
+                    "quartier": "Médina"
+                },
+                {
+                    "quartier": "Almadies"
+                },
+                {
+                    "quartier": "Ouakam"
+                },
+                {
+                    "quartier": "Yoff"
+                },
+                {
+                    "quartier": "Ngor"
+                },
+                {
+                    "quartier": "Mamelles"
+                },
+                {
+                    "quartier": "Ouest foire"
+                },
+                {
+                    "quartier": "Nord foire"
+                },
+                {
+                    "quartier": "Parcelles Assainies"
+                },
+                {
+                    "quartier": "Patte d’oie"
+                },
+                {
+                    "quartier": "Maristes"
+                },
+                {
+                    "quartier": "Camberene"
+                }
+            ],
+
+    "Banlieue":[
+                {
+                    "quartier": "Dalifort"
+                },
+                {
+                    "quartier": "Yarakh"
+                },
+                {
+                    "quartier": "Golf"
+                },
+                {
+                    "quartier": "Pikine"
+                },
+                {
+                    "quartier": "Thiaroye"
+                },
+                {
+                    "quartier": "Guédiawaye"
+                },
+                {
+                    "quartier": "Yeumbeul"
+                },
+                {
+                    "quartier": "Malika"
+                },
+                {
+                    "quartier": "Wakhinane Nimzatt"
+                },
+                {
+                    "quartier": "Diamaguene"
+                },
+                {
+                    "quartier": "Sicap Mbao"
+                },
+                {
+                    "quartier": "Grand Mbao"
+                },
+                {
+                    "quartier": "Keur Massar"
+                },
+                {
+                    "quartier": "Rufisque (ville)"
+                },
+                {
+                    "quartier": "Bargny (ville)"
+                }
+            ]
+}
